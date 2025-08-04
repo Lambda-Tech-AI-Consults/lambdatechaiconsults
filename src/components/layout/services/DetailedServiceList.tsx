@@ -19,6 +19,18 @@ import {
   FaBoxes,           
 } from "react-icons/fa";
 
+type Service = {
+  subtitle: string;
+  description: string;
+};
+
+type ServiceGroup = {
+  title: string;
+  services: Service[];
+  icon?: React.ReactNode;
+};
+
+
 const icons = [
   FaChartLine,      
   FaCogs,         
@@ -32,10 +44,9 @@ const icons = [
   FaLeaf,            
   FaChalkboardTeacher, 
   FaBoxes,           
-
 ];
 
-const fullServices = [
+const fullServices: ServiceGroup[] = [
   {
     title: "Digital Transformation",
     services: [
@@ -128,6 +139,7 @@ const fullServices = [
       { subtitle: "Delivery Modernization", description: "Initiating pilot projects, integrating modern tools like generative AI, and ensuring future readiness on an enterprise scale." },
       { subtitle: "Platform Engineering", description: "Creating, evolving, and operating core cloud-native systems to provide digital cores fit for tomorrow." },
     ],
+    icon: "FaLaptopCode",
   },
   {
     title: "IT Infrastructure and Operations",
@@ -137,6 +149,7 @@ const fullServices = [
       { subtitle: "IT Business Operations", description: "Enhancing IT business operations to support overall business strategy and objectives." },
       { subtitle: "IT Service Management", description: "Ensuring efficient and effective delivery of IT services." },
     ],
+    icon: "FaNetworkWired",
   },
   {
     title: "Architecture and Modernization",
@@ -146,6 +159,7 @@ const fullServices = [
       { subtitle: "Application Architecture", description: "Designing application architectures to support business requirements and technology strategies." },
       { subtitle: "Legacy Modernization", description: "Modernizing legacy systems to improve performance, reduce costs, and support future business needs." },
     ],
+    icon: "FaSitemap",
   },
   {
     title: "Sustainability Services",
@@ -153,22 +167,24 @@ const fullServices = [
       { subtitle: "Sustainability Advisory and Solutions", description: "Providing sustainability services to help organizations reduce their environmental footprint and achieve sustainability goals." },
       { subtitle: "ESG Reporting", description: "Automating ESG reporting, making it forward-looking and proactive, and building seamless connectivity and data exchange across stakeholders." },
     ],
+    icon: "FaLeaf",
   },
   {
     title: "IT Training",
     services: [
       { subtitle: "IT Training", description: "Providing customized IT training solutions to upskill staff and enhance organizational capability." },
     ],
+    icon: "FaChalkboardTeacher",
   },
   {
     title: "Procurement Services",
     services: [
       { subtitle: "Procurement Services", description: "Streamlining and optimizing the procurement lifecycle to ensure cost-effective and timely acquisitions." },
     ],
+    icon: "FaBoxes",
   },
 ];
 
-// Attach icons to each group
 fullServices.forEach((group, index) => {
   group.icon = icons[index]
     ? icons[index]({ className: "text-[#00b34d] text-xl mr-2" })
