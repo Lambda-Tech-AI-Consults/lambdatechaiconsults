@@ -5,11 +5,11 @@ import { motion } from "framer-motion";
 
 const partners = [
   {
-    name: "Innovateq",
+    name: "iNNOVATEQ",
     subtitle: "Pioneering AI-Driven Solutions",
     description:
-      "Innovateq is a key partner in our mission to deliver cutting-edge AI solutions. Their expertise in machine learning and data science complements our consulting services, enabling us to provide comprehensive and innovative solutions to our clients.",
-    image: "/images/partners/innovateq.png",
+      "iNNOVATEQ is a key partner in our mission to deliver cutting-edge AI solutions. Their expertise in machine learning and data science complements our consulting services, enabling us to provide comprehensive and innovative solutions to our clients.",
+    image: "/images/partners/iNNOVATEQ.png",
   },
   {
     name: "ADAGA e-Digital Solutions",

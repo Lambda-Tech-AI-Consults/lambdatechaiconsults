@@ -1,4 +1,4 @@
-import AboutIntro from "@/components/layout/about/AboutIntro";
+import AboutHero from "@/components/layout/about/AboutHero";
 import CoreValues from "@/components/layout/about/CoreValues";
 import MissionVision from "@/components/layout/about/MissionVision";
 import PartnerHighlight from "@/components/layout/about/PartnerHighlight";
@@ -8,9 +8,13 @@ import CTA from "@/components/layout/Cta";
 const page = () => {
   return (
     <>
-      <div className="px-4 md:px-16 py-10 space-y-16 bg-[#F9FAFB] text-gray-700 mx-auto">
-        <AboutSection />
-        <AboutIntro />
+      <div className="bg-[#F9FAFB] text-gray-700 mx-auto w-full">
+        <AboutHero />
+        <div className="bg-[#F9FAFB]">
+          <div className="max-w-7xl mx-auto px-6">
+            <AboutSection />
+          </div>
+        </div>
         <MissionVision />
         <CoreValues />
         <PartnerHighlight />

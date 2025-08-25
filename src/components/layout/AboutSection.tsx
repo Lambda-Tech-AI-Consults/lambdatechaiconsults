@@ -15,7 +15,7 @@ const AboutSection = () => {
         >
           <div className="w-full h-[300px] bg-[#E0F7F5] rounded-xl shadow-md relative" >
             <Image
-              src="/images/about-placeholder.jpg" // Replace with your actual image path
+              src="/images/about-placeholder.jpg" 
               alt="About Us"
               fill
               className="object-cover rounded-xl"
@@ -30,12 +30,12 @@ const AboutSection = () => {
           transition={{ duration: 0.6 }}
           className="w-full md:w-1/2"
         >
-          <h2 className="text-3xl font-bold text-[#0C1F4A] mb-4">Who We Are</h2>
+          <h2 className="text-3xl font-bold text-[#0C1F4A] mb-4">About Lambdatech AI Consults</h2>
           <p className="text-gray-700 leading-relaxed mb-4">
-            LambdaTech AI is a future-forward consulting agency helping businesses embrace the power of artificial intelligence, automation, and digital transformation. 
+            LambdaTech Analytics and Innovation Consulting Limited is a digital technology company dedicated to driving business execution strategies and sustainable reporting through digital transformation. We specialize in delivering transformative solutions with innovative technologies and expert consulting practices. 
           </p>
           <p className="text-gray-700 leading-relaxed">
-            We combine strategy, design, and cutting-edge tech to deliver scalable solutions and real impact.
+             Our services also support supply chain demands for IT and cloud infrastructure, helping businesses excel in the digital era and achieve their strategic objectives. Our mission is to empower organizations to navigate the complexities of digital transformation and realize their full potential.
           </p>
         </motion.div>
       </div>

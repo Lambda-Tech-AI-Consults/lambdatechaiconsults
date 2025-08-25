@@ -8,7 +8,7 @@ import { useEffect } from "react";
 
 const partners = [
   { name: "Adaga Solutions", logo: "/images/partners/adaga-logo.png" },
-  { name: "InnovateQ", logo: "/images/partners/innovateq.png" },
+  { name: "iNNOVATEQ", logo: "/images/partners/iNNOVATEQ.png" },
   { name: "Elite Energy", logo: "/images/partners/elite-energy.png" },
   { name: "Shell", logo: "/images/partners/shell.svg" },
   { name: "EnergySys", logo: "/images/partners/energysys.webp" },

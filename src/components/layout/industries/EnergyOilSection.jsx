@@ -26,9 +26,9 @@ const cards = [
   return (
     <section className="mb-10 ">
       <div className="max-w-7xl mx-auto space-y-10">
-        <h2 className="text-xl font-bold mb-2">Energy & Oil: Innovateq Partnership</h2>
+        <h2 className="text-xl font-bold mb-2">Energy & Oil: iNNOVATEQ Partnership</h2>
         <p className="text-gray-600 mb-6">
-          Lambda Tech partners with Innovateq to revolutionize the energy and oil sector...
+          Lambdatech partners with iNNOVATEQ to revolutionize the energy and oil sector...
         </p>
         <div className="grid md:grid-cols-3 gap-6">
           {cards.map((card, index) => (

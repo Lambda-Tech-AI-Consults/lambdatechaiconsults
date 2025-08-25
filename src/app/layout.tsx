@@ -3,7 +3,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
-import DynamicHero from "@/components/layout/DynamicHero";
+// import DynamicHero from "@/components/layout/DynamicHero";
 import AppLoaderWrapper from '@/components/layout/AppLoaderWrapper';
 
 const geistSans = Geist({
@@ -33,7 +33,7 @@ export default function RootLayout({
       >
         <AppLoaderWrapper>
           <Header />
-          <DynamicHero />
+          {/* <DynamicHero /> */}
           {children}
           <Footer />
         </AppLoaderWrapper>
