@@ -29,7 +29,7 @@ const INDUSTRIES = [
   "Manufacturing",
   "Public Sector",
   "Retail",
-  "Government & Civil Services",
+  "Government and Civil Services",
 ];
 
 export default function Header() {

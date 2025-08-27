@@ -27,7 +27,7 @@ const Footer = () => {
           <h3 className="text-2xl font-bold mb-4">
             <Link href="/" className="text-2xl font-bold text-[#0C1F4A]">
               <Image
-                src="/images/Lamda long logo-dark.png"
+                src="/images/Lamda long logo-light.png"
                 alt="Energy"
                 width={150}
                 height={50}

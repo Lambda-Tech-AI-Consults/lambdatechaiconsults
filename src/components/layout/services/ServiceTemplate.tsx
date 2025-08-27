@@ -83,7 +83,7 @@ export default function ServiceTemplate({
           <h2 className="text-3xl font-semibold text-center mb-14 text-[#0C1F4A]">
             Our Approach
           </h2>
-          <div className="flex justify-center gap-8 w-full">
+          <div className="grid grid-cols-1 md:grid-cols-4 gap-12 md:gap-8">
             {approach.map((step, idx) => (
               <motion.div
                 key={idx}
