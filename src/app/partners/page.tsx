@@ -5,10 +5,12 @@ import PartnerCTA from "@/components/layout/partners/PartnerCTA";
 import PartnerHero from "@/components/layout/partners/PartnerHero";
 import CaseStudy from "@/components/layout/services/CaseStudy";
 import React from "react";
+import DynamicHero from "@/components/layout/DynamicHero";
 
 const page = () => {
   return (
     <main className="bg-white text-[#0C1F4A] mx-auto">
+      <DynamicHero />
       <PartnerHero />
       <Partners />
       <div className="px-4 md:px-16 py-10 space-y-16 bg-[#F9FAFB] text-gray-700 mx-auto">

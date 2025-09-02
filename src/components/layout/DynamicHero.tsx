@@ -13,11 +13,11 @@ const pageMeta: Record<string, { heading: string; bg?: string }> = {
   },
   '/contact': {
     heading: 'Let’s Connect and Create Impact',
-    // bg: '/images/hero-contact.jpg',
+    bg: '/images/hero-contact.jpg',
   },
   '/partners': {
     heading: 'Driving Progress Through Strategic Partnerships',
-    // bg: '/images/hero-partners.jpg',
+    bg: '/images/hero-partners.jpg',
   },
   '/industries': {
     heading: 'Powering Progress Across Industries',

@@ -15,14 +15,14 @@ const partners = [
     name: "ADAGA e-Digital Solutions",
     subtitle: "Real-Time Drilling Optimization & Planning",
     description:
-      "ADAGA’s suite of tools (ePerform, eStream, eSteering, etc.) enables real-time performance analysis and well planning. Through our partnership, LambdaTech delivers cost-efficient drilling workflows and accelerated decision-making for clients.",
+      "ADAGA’s suite of tools (ePerform, eStream, eSteering, etc.) enables real-time performance analysis and well planning. Through our partnership, LAMBDATECH delivers cost-efficient drilling workflows and accelerated decision-making for clients.",
     image: "/images/partners/adaga-logo.png",
   },
   {
     name: "Elite Energy",
     subtitle: "Hydrocarbon Accounting & Operational Risk",
     description:
-      "Elite Energy supports hydrocarbon tracking, emissions modeling, and QRA/HSE compliance. LambdaTech integrates these tools into energy operations for enhanced transparency, safety, and regulatory alignment.",
+      "Elite Energy supports hydrocarbon tracking, emissions modeling, and QRA/HSE compliance. LAMBDATECH integrates these tools into energy operations for enhanced transparency, safety, and regulatory alignment.",
     image: "/images/partners/elite-energy-logo.png",
   },
   {

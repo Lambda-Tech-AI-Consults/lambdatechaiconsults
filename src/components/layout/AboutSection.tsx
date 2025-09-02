@@ -30,9 +30,9 @@ const AboutSection = () => {
           transition={{ duration: 0.6 }}
           className="w-full md:w-1/2"
         >
-          <h2 className="text-3xl font-bold text-[#0C1F4A] mb-4">About Lambdatech AI Consults</h2>
+          <h2 className="text-3xl font-bold text-[#0C1F4A] mb-4">About LAMBDATECH AI Consults</h2>
           <p className="text-gray-700 leading-relaxed mb-4">
-            LambdaTech Analytics and Innovation Consulting Limited is a digital technology company dedicated to driving business execution strategies and sustainable reporting through digital transformation. We specialize in delivering transformative solutions with innovative technologies and expert consulting practices. 
+            LAMBDATECH Analytics and Innovation Consulting Limited is a digital technology company dedicated to driving business execution strategies and sustainable reporting through digital transformation. We specialize in delivering transformative solutions with innovative technologies and expert consulting practices. 
           </p>
           <p className="text-gray-700 leading-relaxed">
              Our services also support supply chain demands for IT and cloud infrastructure, helping businesses excel in the digital era and achieve their strategic objectives. Our mission is to empower organizations to navigate the complexities of digital transformation and realize their full potential.

@@ -7,7 +7,7 @@ export default function DigitalTransformationPage() {
       title="Digital Transformation"
       description="Empowering businesses to adapt and thrive in the digital era through advanced technologies and innovative strategies."
       heroImage="/images/services/digital-transformation.jpg"
-      overview="At LambdaTech AI, our digital transformation services reimagine how organizations operate, unlocking new business models and efficiencies with cloud, automation, and AI."
+      overview="At LAMBDATECH AI, our digital transformation services reimagine how organizations operate, unlocking new business models and efficiencies with cloud, automation, and AI."
       approach={[
         { icon: "🤝", title: "Consultation", detail: "Understand your business challenges and digital maturity." },
         { icon: "🧭", title: "Strategy", detail: "Create transformation roadmaps aligned with goals." },
