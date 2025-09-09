@@ -48,7 +48,7 @@ export default function Header() {
           <Link href="/" className="flex items-center gap-3">
             <Image
               src="/images/Lamda long logo-dark.png"
-              alt="LAMBDATECH"
+              alt="LambdaTech"
               width={150}
               height={50}
               className="object-contain"

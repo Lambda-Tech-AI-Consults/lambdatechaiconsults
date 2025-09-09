@@ -95,7 +95,7 @@ export default function IndustriesPage() {
       {/* Overview */}
       <section className="py-16 px-6 max-w-5xl mx-auto text-center">
         <p className="text-lg mb-6">
-          At LAMBDATECH AI, we bridge cross-industry insights with sector-specific expertise.
+          At LambdaTech AI, we bridge cross-industry insights with sector-specific expertise.
           Lessons from energy, finance, and healthcare feed into one another — enabling
           innovative, scalable, and sustainable transformation across industries.
         </p>

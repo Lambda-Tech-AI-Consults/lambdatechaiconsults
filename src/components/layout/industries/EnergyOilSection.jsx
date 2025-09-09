@@ -6,7 +6,7 @@ const cards = [
     title: 'Specialized Outsourcing Services',
     description:
       'From field optimization to reservoir evaluation and development planning, we provide expert-driven support through domain specialists. Our core capabilities include Integrated Production Modelling (IPM), PVT studies, Fluid Characterization, Subsurface Interpretation, and Geoscience Evaluation.',
-    image: '/images/industries/LAMBDATECH subsurface.png',
+    image: '/images/industries/lambdatech subsurface.png',
   },
   {
     title: 'Consulting & Technology Solutions',
@@ -18,7 +18,7 @@ const cards = [
     title: 'Technical Partnerships & Delivery',
     description:
       'Through our strategic technology partners, we co-deliver advanced platforms including digital transformation solutions, real-time performance monitoring, Operator Training Simulators (OTS), and immersive 3D asset virtualization for operational excellence.',
-    image: '/images/industries/LAMBDATECH OTS.png',
+    image: '/images/industries/lambdatech OTS.png',
   },
 ];
 
@@ -28,7 +28,7 @@ const cards = [
       <div className="max-w-7xl mx-auto space-y-10">
         <h2 className="text-xl font-bold mb-2">Energy & Oil: iNNOVATEQ Partnership</h2>
         <p className="text-gray-600 mb-6">
-          LAMBDATECH partners with iNNOVATEQ to revolutionize the energy and oil sector...
+          Lambdatech partners with iNNOVATEQ to revolutionize the energy and oil sector...
         </p>
         <div className="grid md:grid-cols-3 gap-6">
           {cards.map((card, index) => (

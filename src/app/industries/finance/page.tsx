@@ -11,7 +11,7 @@ export default function FinancePage() {
       heroImage="/images/industries/finance.jpg"
       overview={`The financial sector is at the forefront of digital disruption. 
       From shifting consumer expectations to increasingly complex regulations, 
-      organizations must reimagine how they operate. At LAMBDATECH AI, we partner 
+      organizations must reimagine how they operate. At LambdaTech AI, we partner 
       with banks, insurers, fintechs, and investment firms to enable smarter 
       decision-making, enhance resilience, and unlock growth through technology 
       and data-driven strategies.`}

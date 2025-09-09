@@ -10,7 +10,7 @@ export default function ManufacturingPage() {
       tagline="Driving efficiency and sustainability across production lines."
       heroImage="/images/industries/manufacturing.jpg"
       overview={`Manufacturing faces mounting pressure to become smarter, faster, and more sustainable. 
-      At LAMBDATECH AI, we help manufacturers embrace digital transformation to optimize supply chains, 
+      At LambdaTech AI, we help manufacturers embrace digital transformation to optimize supply chains, 
       modernize operations, and reduce inefficiencies across the value chain.`}
       challenges={[
         {

@@ -20,7 +20,7 @@ export default function MethodologySteps() {
             Our Model & Methodology
           </h2>
           <p className="text-gray-700 text-lg leading-relaxed mb-6">
-            At LAMBDATECH AI, we follow a refined methodology designed to
+            At LambdaTech AI, we follow a refined methodology designed to
             deliver value at every stage of a client’s transformation journey.
             Our model ensures that innovation is not only insightful but
             actionable, scalable, and sustainable.

@@ -10,7 +10,7 @@ export default function HealthcarePage() {
       tagline="Smarter healthcare, powered by data and innovation."
       heroImage="/images/industries/healthcare.jpg"
       overview={`Healthcare is undergoing rapid transformation, driven by the need for efficiency, 
-      improved patient outcomes, and operational agility. At LAMBDATECH AI, we support healthcare 
+      improved patient outcomes, and operational agility. At LambdaTech AI, we support healthcare 
       providers, organizations, and support services in rethinking how care is delivered, measured, 
       and managed using technology and data.`}
       challenges={[

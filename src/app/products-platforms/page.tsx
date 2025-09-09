@@ -138,7 +138,7 @@ const ProductsPlatformsPage = () => {
         </h2>
         <p className="text-lg text-gray-200 mb-8 max-w-3xl mx-auto">
           From AI-driven reservoir management to immersive training simulators,
-          LAMBDATECH brings the right partners and platforms to deliver
+          LambdaTech brings the right partners and platforms to deliver
           results-driven impact for your operations.
         </p>
         <a

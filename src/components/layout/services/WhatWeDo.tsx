@@ -26,7 +26,7 @@ const WhatWeDo = () => {
             What We Do
           </motion.h2>
           <motion.p className="text-gray-700 max-w-3xl" variants={fadeIn}>
-            LAMBDATECH AI is a consulting and technology company delivering strategic, digital, and technical solutions to the energy sector and beyond. Our role bridges innovation and execution — empowering clients to transform complex operational challenges into streamlined, intelligent systems that deliver measurable value.
+            LambdaTech AI is a consulting and technology company delivering strategic, digital, and technical solutions to the energy sector and beyond. Our role bridges innovation and execution — empowering clients to transform complex operational challenges into streamlined, intelligent systems that deliver measurable value.
           </motion.p>
         </motion.div>
 
@@ -49,7 +49,7 @@ const WhatWeDo = () => {
           <motion.div variants={fadeIn}>
             <h3 className="text-xl font-semibold text-[#0C1F4A]">Specialized Outsourcing Services</h3>
             <p className="text-gray-700 mt-1">
-              LAMBDATECH provides on-demand access to experienced subsurface professionals and multidisciplinary technical teams. Our outsourcing services cover Integrated Production Modelling (IPM), PVT Studies, Reservoir Engineering, Subsurface Interpretation, and more — delivering agility and cost-efficiency.
+              LambdaTech provides on-demand access to experienced subsurface professionals and multidisciplinary technical teams. Our outsourcing services cover Integrated Production Modelling (IPM), PVT Studies, Reservoir Engineering, Subsurface Interpretation, and more — delivering agility and cost-efficiency.
             </p>
           </motion.div>
 
