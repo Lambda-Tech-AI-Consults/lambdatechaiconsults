@@ -76,7 +76,7 @@ export default function EnergyPage() {
           Backed by strategic partnerships with globally respected OEMs, our
           consulting and delivery model fuses local market insight with
           international standards. Whether navigating technical challenges,
-          deploying digital twins, or optimizing WRFM performance, LambdaTech
+          deploying digital twins, or optimizing WRFM performance, LAMBDATECH
           ensures you’re equipped to lead with precision and efficiency.
         </p>
       </section>
@@ -213,7 +213,7 @@ export default function EnergyPage() {
           Ready to Transform Energy Operations?
         </h2>
         <p className="mb-6 text-gray-300">
-          Partner with LambdaTech to unlock efficiency, scalability, and
+          Partner with LAMBDATECH to unlock efficiency, scalability, and
           resilience in the energy sector.
         </p>
         <Link

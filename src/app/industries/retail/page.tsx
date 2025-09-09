@@ -10,7 +10,7 @@ export default function RetailPage() {
       tagline="Transforming customer experience through intelligence and agility."
       heroImage="/images/industries/retail.jpg"
       overview={`Retailers must adapt to evolving consumer behaviors and market disruptions. 
-      At LambdaTech AI, we enable retailers to leverage data, automation, and cloud platforms 
+      At LAMBDATECH AI, we enable retailers to leverage data, automation, and cloud platforms 
       to build agile systems that drive growth and enhance customer engagement.`}
       challenges={[
         {

@@ -114,7 +114,7 @@ export default function ServicesPage() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-lg md:text-xl text-gray-200 max-w-3xl mx-auto leading-relaxed"
           >
-            From digital transformation to AI-driven solutions, LambdaTech helps
+            From digital transformation to AI-driven solutions, LAMBDATECH helps
             organizations innovate, modernize, and thrive in today’s
             fast-changing landscape.
           </motion.p>
@@ -127,7 +127,7 @@ export default function ServicesPage() {
           Driving Impact Through Innovation
         </h2>
         <p className="text-gray-600 text-lg leading-relaxed">
-          At LambdaTech, we don’t just deliver services — we partner with you to
+          At LAMBDATECH, we don’t just deliver services — we partner with you to
           transform ideas into scalable, sustainable solutions. Our end-to-end
           approach ensures strategy, design, engineering, and change management
           all work seamlessly together to drive real business outcomes.
@@ -176,7 +176,7 @@ export default function ServicesPage() {
       <section className="bg-white py-16 px-6">
         <div className="max-w-5xl mx-auto text-center">
           <h2 className="text-3xl font-bold text-[#0C1F4A] mb-12">
-            Why Choose LambdaTech?
+            Why Choose LAMBDATECH?
           </h2>
           <div className="grid md:grid-cols-3 gap-8 text-gray-700">
             {/* Domain Expertise */}

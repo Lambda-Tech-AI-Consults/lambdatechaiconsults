@@ -10,7 +10,7 @@ export default function PublicSectorPage() {
       tagline="Empowering governments to deliver transparency, accountability, and citizen value."
       heroImage="/images/industries/public-sector.jpg"
       overview={`Public institutions must adapt to growing citizen expectations while maintaining transparency and accountability. 
-      At LambdaTech AI, we support digital transition and data-driven governance to enhance efficiency, service delivery, 
+      At LAMBDATECH AI, we support digital transition and data-driven governance to enhance efficiency, service delivery, 
       and public trust.`}
       challenges={[
         {

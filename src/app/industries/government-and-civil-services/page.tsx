@@ -10,7 +10,7 @@ export default function GovernmentPage() {
       tagline="Transforming governance and public service delivery with digital intelligence."
       heroImage="/images/industries/government.jpg"
       overview={`Government and civil service organizations are under pressure to deliver transparency, efficiency, and citizen-focused solutions. 
-      LambdaTech AI provides digital strategies that modernize service delivery, strengthen security, and enhance decision-making.`}
+      LAMBDATECH AI provides digital strategies that modernize service delivery, strengthen security, and enhance decision-making.`}
       challenges={[
         {
           title: "Legacy Systems",
